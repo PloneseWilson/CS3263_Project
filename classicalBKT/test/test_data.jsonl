@@ -1,0 +1,10 @@
+{"id":1,"question":"What is the sum of the interior angles of a triangle?","answer":"180","skill":["geometry"]}
+{"id":2,"question":"What is the derivative of x^2?","answer":"2x","skill":["calculus"]}
+{"id":3,"question":"What is the determinant of the identity matrix?","answer":"1","skill":["linear_algebra"]}
+{"id":4,"question":"What is the area of a circle with radius r?","answer":"pi*r^2","skill":["geometry","calculus"]}
+{"id":5,"question":"What is the derivative of sin(x)?","answer":"cos(x)","skill":["calculus"]}
+{"id":6,"question":"What is the dot product of perpendicular vectors?","answer":"0","skill":["linear_algebra","geometry"]}
+{"id":7,"question":"What is the slope of a vertical line?","answer":"undefined","skill":["geometry"]}
+{"id":8,"question":"What is the integral of 1 with respect to x?","answer":"x+C","skill":["calculus"]}
+{"id":9,"question":"What is a vector with magnitude 1 called?","answer":"unit vector","skill":["linear_algebra"]}
+{"id":10,"question":"What is the derivative of x^3?","answer":"3x^2","skill":["calculus","linear_algebra"]}
