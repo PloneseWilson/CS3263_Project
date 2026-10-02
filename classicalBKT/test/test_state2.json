@@ -1,0 +1,9 @@
+{
+  "skill": {
+    "derivatives": 0.2,
+    "integral": 0.2,
+    "vector_operation": 0.2,
+    "trigonometry": 0.2,
+    "statistics": 0.2
+  }
+}

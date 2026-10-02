@@ -1,5 +1,4 @@
 import json
-import random
 
 def read_jsonl(path):
     questions = []
@@ -11,17 +10,12 @@ def read_jsonl(path):
 
     return questions
 
-
 def read_initial_state(path):
     with open(path, "r", encoding="utf-8") as file:
         state_data = json.load(file)
 
     return state_data["skill"]
 
-
 def get_skill_names(initial_state):
     return list(initial_state.keys())
 
-def choose(question_list: list, current_state):
-    question = random.choice(question_list)
-    return question

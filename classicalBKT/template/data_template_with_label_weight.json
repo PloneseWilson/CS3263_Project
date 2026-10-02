@@ -1,0 +1,10 @@
+{
+    "id": -1,
+    "question": "Q",
+    "answer": "A",
+
+    "skill": {
+        "LabelA": 8,
+        "LabelB": 10
+    }
+}

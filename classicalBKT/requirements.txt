@@ -1,2 +1,1 @@
-numpy
-random
+# require Python >= 3.10

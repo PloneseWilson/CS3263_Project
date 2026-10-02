@@ -1,6 +1,6 @@
 {
     "skill":{
-        "LabelA": 0,
-        "LabelB": 0
+        "LabelA": 0.5,
+        "LabelB": 0.5
     }
 }
